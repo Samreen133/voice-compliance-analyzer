@@ -1,4 +1,4 @@
-# VoiceGuard: AI Monitoring for Regulatory Voice Compliance (UC234)
+# VoiceGuard: AI Monitoring for Regulatory Voice Compliance
 
 An enterprise-grade AI voice compliance monitoring, call summarization, and speech intelligence platform designed for banking and financial institutions.
 
