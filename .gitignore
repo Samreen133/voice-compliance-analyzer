@@ -1,0 +1,48 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+ 
+# Virtual environment
+venv/
+.venv/
+env/
+ 
+# Secrets
+.env
+ 
+# VS Code
+.vscode/
+ 
+# Logs
+*.log
+ 
+# Local databases
+*.db
+*.sqlite
+*.sqlite3
+ 
+# Antigravity / local AI workspace
+brain/
+conversations/
+crashes/
+scratch/
+annotations/
+mcp/
+knowledge/
+ 
+# OS files
+.DS_Store
+Thumbs.db
+ 
+# Protocol Buffer generated files
+*.pb
+*.pbtxt
+
+# Local installation metadata
+installation_id
+
+bin/
+builtin/
+
+reports/
